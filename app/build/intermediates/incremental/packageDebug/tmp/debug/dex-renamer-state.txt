@@ -1,0 +1,4 @@
+#Thu Oct 03 15:07:59 EDT 2019
+base.0=/Users/nobonitapaul/Downloads/BRH2/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
